@@ -21,3 +21,7 @@ docker stop kubia-container
 ```sh
 docker rm kubia-container
 ```
+
+```sh
+docker tag kubia fmeschbe/kubia
+```
